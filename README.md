@@ -25,7 +25,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal Website & Blog: [zhenye-na.github.io](https://zhenye-na.github.io/)
+- Personal Website & Blog: [gogo04673-tech.github.io](https://gogo04673-tech.github.io/)
 - Notes on AWS (Archived): [AWS Cheat Sheet](https://zhenye-na.github.io/aws-certs-cheatsheet/)
 - [WIP] LeetCode Notes: [LeetCode Solutions](https://zhenye-na.github.io/leetcode/)
 
@@ -63,15 +63,15 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhenye-na&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/gogo04673-tech">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gogo04673-tech&show_icons=true&theme=tokyonight&hide_title=true" />
+  </a>
+  <a href="https://github.com/gogo04673-tech">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogo04673-tech&layout=compact&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/gogo04673-tech">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gogo04673-tech&theme=tokyonight" />
+  </a>
 </p>
 
 ---

@@ -25,11 +25,11 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+- Personal Website & Blog: [zhenye-na.github.io](https://zhenye-na.github.io/)
+- Notes on AWS (Archived): [AWS Cheat Sheet](https://zhenye-na.github.io/aws-certs-cheatsheet/)
+- [WIP] LeetCode Notes: [LeetCode Solutions](https://zhenye-na.github.io/leetcode/)
 
-### 📔 Latest Blog posts
+### 📔 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
@@ -39,62 +39,53 @@ me.say_hi()
 - [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ## 🔧 Technologies & Tools
 
-**Cloud Services:**
+### 💻 Programming Languages
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![Bedrock](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![SageMaker](https://img.shields.io/badge/ML-SageMaker-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
-![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
-![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
-![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
-![SNS](https://img.shields.io/badge/Pub/Sub-SNS-informational?style=flat&logo=amazon-sns&logoColor=white&color=6aa6f8)
-![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
-![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
-![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=6aa6f8)
-![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
-![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4B8BBE)
+![Dart](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=0175C2)
+![PHP](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=8892BF)
+![HTML](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E44D26)
+![CSS](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=264de4)
+![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 
-**Programming Languages:**
+### 🧠 AI & Frameworks
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
+![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)
+![AI](https://img.shields.io/badge/AI-Projects-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
 
+---
 
-**Tools and Services:**
+## 📊 GitHub Stats
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+</p>
 
-<!-- ## &#x1f4c8; GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhenye-na&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
+---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=tokyonight&column=7" />
+</p>
 
-## 🗂️ Highlight Projects
+---
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+## 🔍 Highlight Projects
+
+<a href="https://github.com/gogo04673-tech/Habits-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gogo04673-tech&repo=Habits-Tracker&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Habits Tracker" />
 </a>
-
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
-
-<!-- ## 👨‍💻 This week, I spent my time on:
-
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->

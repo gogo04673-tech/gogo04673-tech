@@ -1,68 +1,100 @@
-<h1 align="center">Hey there 👋, I'm Mohammed Eljihad</h1>
+# Hello there 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhnMnZyNTVkbXZjZ2kwcmVtaGhldzNoNzJ0ZmE0YXhmZ3dxNHg1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q1MeAPDDMb43K/giphy.gif" width="200" alt="hi">
-</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
----
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-### 💫 About Me
 
-- 🧠 Self-taught developer passionate about building things that matter.
-- 🛠 I code using **Dart + Flutter** for mobile, **PHP/Python** for backend, and design using **HTML/CSS**.
-- 🐙 I use **Git** to version control all my projects and push myself to learn more every day.
-- 🧩 Currently learning **advanced SQL** and full-stack architecture.
-- 🎯 Goal: Build beautiful apps with performance & meaning.
+class SoftwareEngineer:
 
----
+    def __init__(self):
+        self.name = "Zhenye Na"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
 
-### 🛠️ Technologies & Tools
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-- 📱 Flutter & Dart
-- 🐘 PHP / 🐍 Python
-- 🌐 HTML5 / CSS3
-- 🗄 SQL (MySQL / SQLite)
-- ⚙ Git & GitHub
-- 🧠 Firebase, Supabase
-- 💡 VS Code / Android Studio
 
----
+me = SoftwareEngineer()
+me.say_hi()
+```
 
-### 🧠 Current Projects
+## 📝 Blogs
 
-- 🧭 **Habit Tracker App** – Simple UI/UX, daily progress, cloud sync.
-- ⏰ **Productivity Timer** – Flutter + Firebase based time tracker.
-- 📊 **SQL Playground** – Web app to practice and visualize queries.
+- Personal website and blog: https://zhenye-na.github.io/
+- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
+- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
----
+### 📔 Latest Blog posts
 
-### 📷 Mood Board
+<!-- BLOG-POST-LIST:START -->
+- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
+- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
+- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
+- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
+- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
+<!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/3a/96/b3/3a96b3ddc243f847ffb67d5c3641f13d.gif" width="200" />
-  <img src="https://i.pinimg.com/originals/96/89/ff/9689ffc2f7e01c9e6a0161d6934c8d5a.gif" width="200" />
-  <img src="https://i.pinimg.com/originals/fb/6d/c6/fb6dc62be5285bdcf0584d29c3161620.gif" width="200" />
-  <br>
-  <sub>💔 "Coding through the sadness, building something meaningful..."</sub>
-</p>
+## 🔧 Technologies & Tools
 
----
+**Cloud Services:**
 
-### 📈 GitHub Stats
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![Bedrock](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![SageMaker](https://img.shields.io/badge/ML-SageMaker-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
+![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
+![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
+![SNS](https://img.shields.io/badge/Pub/Sub-SNS-informational?style=flat&logo=amazon-sns&logoColor=white&color=6aa6f8)
+![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
+![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
+![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=6aa6f8)
+![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
+![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150" />
-</p>
+**Programming Languages:**
 
----
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 
-### 📫 Connect with Me
 
-- 🌍 [Portfolio (soon)]()
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)
-- 📧 Email: your@email.com
+**Tools and Services:**
 
----
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-> 🖤 *“Code is poetry for the lost minds.”*
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a> -->
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+<!-- ## 👨‍💻 This week, I spent my time on:
+
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
